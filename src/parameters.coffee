@@ -123,7 +123,7 @@ class Parameters
 
         @params['8192'] =
             length: 8192
-            hash: 'sha256'
+            hash: 'sha512'
             g: '13'
             N: 'FFFFFFFF FFFFFFFF C90FDAA2 2168C234 C4C6628B 80DC1CD1 29024E08
                 8A67CC74 020BBEA6 3B139B22 514A0879 8E3404DD EF9519B3 CD3A431B
